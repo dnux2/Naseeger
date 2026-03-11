@@ -49,5 +49,5 @@ Design System:
  Brand Identity :
 
 **NASEEGER** — نَسِيجَر — derives from the Arabic root *نسج* meaning "to weave." The brand weaves together three threads: the ancient mud-brick architecture of Diriyah, the golden heritage of Saudi craftsmanship, and the refined sensibility of the modern Gulf gentleman.
-blob:https://web.whatsapp.com/add6e0d4-4297-47ac-ab73-dc14a7baddf8<img width="1600" height="893" alt="image" src="https://github.com/user-attachments/assets/4a6f01b6-7c98-483d-8552-812803ee4d59" />
+<img width="1600" height="893" alt="image" src="https://github.com/user-attachments/assets/4a6f01b6-7c98-483d-8552-812803ee4d59" />
 

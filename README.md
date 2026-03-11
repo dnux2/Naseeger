@@ -50,4 +50,6 @@ Design System:
 
 **NASEEGER** — نَسِيجَر — derives from the Arabic root *نسج* meaning "to weave." The brand weaves together three threads: the ancient mud-brick architecture of Diriyah, the golden heritage of Saudi craftsmanship, and the refined sensibility of the modern Gulf gentleman.
 <img width="1600" height="893" alt="image" src="https://github.com/user-attachments/assets/4a6f01b6-7c98-483d-8552-812803ee4d59" />
+![WhatsApp Image 2026-03-11 at 7 36 11 AM](https://github.com/user-attachments/assets/07820323-8b33-45bb-b94c-5e83d0a26ec7)
+![WhatsApp Image 2026-03-11 at 7 36 11 AM](https://github.com/user-attachments/assets/141b409c-a425-48fa-9b51-0c7f788bf26b)
 

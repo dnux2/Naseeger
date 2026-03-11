@@ -1,6 +1,6 @@
 NASEEGER — نَسِيجَر
 Luxury Saudi Thobe House · 
-
+![WhatsApp Image 2026-03-11 at 7 36 11 AM](https://github.com/user-attachments/assets/28171043-7c9a-4c69-95fa-419afa490e8f) 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Overview :
@@ -49,7 +49,6 @@ Design System:
  Brand Identity :
 
 **NASEEGER** — نَسِيجَر — derives from the Arabic root *نسج* meaning "to weave." The brand weaves together three threads: the ancient mud-brick architecture of Diriyah, the golden heritage of Saudi craftsmanship, and the refined sensibility of the modern Gulf gentleman.
-![WhatsApp Image 2026-03-11 at 7 36 11 AM](https://github.com/user-attachments/assets/28171043-7c9a-4c69-95fa-419afa490e8f)
 ![WhatsApp Image 2026-03-11 at 7 36 11 AM (2)](https://github.com/user-attachments/assets/15f4c519-ca59-4852-bdbf-a1686a838878)
 ![WhatsApp Image 2026-03-11 at 7 36 11 AM (1)](https://github.com/user-attachments/assets/c7c4fb78-c870-47de-a65e-ceb4f6369e27)
 <img width="939" height="527" alt="‏لقطة الشاشة ١٤٤٧-٠٩-٢٢ في ٧ ٣٩ ٥٢ ص" src="https://github.com/user-attachments/assets/cdf2bea4-e113-4045-b412-77e1a3b125d5" />
